@@ -4,7 +4,7 @@ Descrição do Projeto
 
 Backend feito em PHP sem framework, eu criei o meu framework MVC somente para organizar os arquivos,
 
-o backend disponibliza url para que possa ser feito o CRUD.
+o backend disponibliza os endpoints para que possa ser feito o CRUD.
 
 Cadastro de Users
 
