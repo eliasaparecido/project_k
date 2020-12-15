@@ -1,26 +1,41 @@
 # project_k
 
 Descrição do Projeto
+
 Backend feito em PHP sem framework, eu criei o meu framework MVC somente para organizar os arquivos,
+
 o backend disponibliza url para que possa ser feito o CRUD.
 
 Cadastro de Users
+
 list get in /users
+
 create post in /users/create
+
 edit get in /users/edit?id={id}
+
 update post in /users/update?id={id}
+
 delete get in /users/delete?id={id}
 
 Cadastro de Cliente
+
 list get in /clients
+
 create post in /clients/create
+
 edit get in /clients/edit?id={id}
+
 update post in /clients/update?id={id}
+
 delete get in /clients/delete?id={id}
 
 Cadastro de Endereços Clientes
+
 list get in /clients/address
+
 create post in /clients/address/create
+
 delete get in /clients/adress/delete?id={id}
 
 Frontend feito em VueJS com requisições em axios no endpoint.
