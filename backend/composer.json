@@ -1,0 +1,21 @@
+{
+    "name": "kabum/cadastro",
+    "description": "Cadastro Cliente",
+    "authors": [
+        {
+            "name": "Elias Aparecido Marciano",
+            "email": "eliasaparecido@hotmail.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Elias\\Framework\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "illuminate/database": "^7.30",
+        "twig/twig": "^3.0"
+    }
+}
